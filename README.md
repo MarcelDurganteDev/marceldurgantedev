@@ -1,7 +1,7 @@
 <h1 align="center">Nice to meet you, I'm Marcel Durgante </h1>
 <h3 align="center"> 🖥️  Software Developer |  Front-end  |  MERN Stack </h3>
 
-### <img src="https://giphy.com/gifs/sad-groot-baby-QctrAnKREXn" width="50"> A little more about me...  
+A little more about me...  
 
 ```javascript
 const marcelDurgante = {

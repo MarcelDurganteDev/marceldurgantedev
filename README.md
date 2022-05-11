@@ -1,20 +1,35 @@
 <h1 align="center">Nice to meet you, I'm Marcel Durgante </h1>
-<h3 align="center"> 🖥️ Software Developer | 🖋 Frontend | MERN Stack </h3>
+<h3 align="center"> 🖥️  Software Developer |  Front-end  |  MERN Stack </h3>
 
-[![Artstation Website](./assets/img/Logo-gif.gif)](https://www.artstation.com/noiztbander)
+### <img src="https://giphy.com/gifs/sad-groot-baby-QctrAnKREXn" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on my website portfolio
-- 🌱 I’m currently learning Python and  React Native
-- 👯 I’m looking to collaborate on Tech Companies 
-- 💬 Ask me about Front-end, Teamwork, Business ideas
-- 📫 How to reach me: info@marceldurgante.dev
-- ⚡ Fun fact: I love cooking and movies !!!
+```javascript
+const marcelDurgante = {
+  pronouns: "he" | "him",
+  talk: [Frontend, UI, UX, Teamwork, Ideas],
+  looking: "to collaborate on Tech Companies",
+  hobbies: {
+                        cooking: "Love it!",
+                        movies: "Wine + romantic comedies",
+                        beach: "Event if it's raining"
+                      },
+ learning: {
+                        code: "Python",
+                        languages: "German"
+                      }, 
+ challenge: "I am persuing a BSc of Software Development in a German university"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people.</b> Let's talk! </b> :)</em>
+
+---
 
 ### Connect with me:
 
-[<img align="left" alt="Noiztbander | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Noiztbander | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Noiztbander | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MarcelDurgante | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MarcelDurgante | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="MarcelDurgante | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -38,7 +53,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="jest" height="40"/> </a>
 </p>
----
 
 [linkedin]: https://www.linkedin.com/in/marcel-dev/
 [facebook]: https://www.facebook.com/marceldurgante

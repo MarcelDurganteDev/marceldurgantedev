@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Marcel Durgante </h1>
-<h3 align="center"> 🖥️  Software Developer |  Front-end  |  MERN Stack </h3>
+<h3 align="center"> 🖥️  Junior Software Developer |  Front-end  |  MERN Stack </h3>
 
 A little more about me...  
 

@@ -28,8 +28,6 @@ const marcelDurgante = {
 ### Connect with me:
 
 [<img align="left" alt="MarcelDurgante | LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />][linkedin]
-[<img align="left" alt="MarcelDurgante | Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />][facebook]
-[<img align="left" alt="MarcelDurgante | Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />][instagram]
 
 <br />
 

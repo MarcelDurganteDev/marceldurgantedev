@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Marcel Durgante </h1>
-<h3 align="center"> 🖥️  Junior Software Developer |  Front-end  |  MERN Stack </h3>
+<h3 align="center"> 🖥️  Software Developer |  Front-end  |  MERN Stack </h3>
 
 A little more about me...  
 
@@ -7,7 +7,7 @@ A little more about me...
 const marcelDurgante = {
   pronouns: "he" | "him",
   talk: [Frontend, UI, UX, Teamwork, Ideas],
-  looking: "to collaborate on Tech Companies",
+  looking: "to collaborate on Tech Companies that are human and client focused and have diversity, equity and inclusion at heart prioritizing soft skills as much as tech skills.",
   hobbies: {
                         cooking: "Love it!",
                         movies: "Wine + romantic comedies",

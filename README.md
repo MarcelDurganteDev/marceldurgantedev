@@ -11,13 +11,13 @@ const marcelDurgante = {
   hobbies: {
                         cooking: "Love it!",
                         movies: "Wine + romantic comedies",
-                        beach: "Event if it's raining"
+                        beach: "Even if it's raining"
                       },
  learning: {
-                        code: "Python",
-                        languages: "German"
+                        code: "All things Frontend development",
+                        languages: "French"
                       }, 
- challenge: "I am persuing a BSc of Software Development in a German university"
+ challenge: "Bring them on!"
 }
 ```
 
